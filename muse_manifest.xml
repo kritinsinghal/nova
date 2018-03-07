@@ -1,0 +1,67 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1520191819498">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="index.css" crc="309979763" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index"/>
+    <file name="webpro.js" crc="420478120" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
+    <file name="touchswipe.js" crc="60020316" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-blue.png" crc="529115064" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u139.png" crc="491592524" ref="index"/>
+    <file name="u139-r.png" crc="491592524" ref="index"/>
+    <file name="u127.png" crc="4050188671" ref="index"/>
+    <file name="u127-r.png" crc="4050188671" ref="index"/>
+    <file name="u263.png" crc="3797604760" ref="index"/>
+    <file name="u263-r.png" crc="3797604760" ref="index"/>
+    <file name="u146.png" crc="3935771728" ref="index"/>
+    <file name="u146-r.png" crc="3935771728" ref="index"/>
+    <file name="title.jpg" crc="446132053" ref="index"/>
+    <file name="three-screens.jpg" crc="207029718" ref="index"/>
+    <file name="all-screens.jpg" crc="3897005686" ref="index"/>
+    <file name="u231-4.png" crc="469263366" ref="index"/>
+    <file name="u233-4.png" crc="3982041410" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="t3.png" crc="271236062" ref="index"/>
+    <file name="u316-9.png" crc="344909308" ref="index"/>
+    <file name="t5-crop-u462.png" crc="187556598" ref="index"/>
+    <file name="u468-7.png" crc="825202" ref="index"/>
+    <file name="u283-4.png" crc="3883176244" ref="index"/>
+    <file name="u343-4.png" crc="3827175474" ref="index"/>
+    <file name="u349-4.png" crc="4201410575" ref="index"/>
+    <file name="u365-4.png" crc="4085865906" ref="index"/>
+    <file name="u352-4.png" crc="4158591550" ref="index"/>
+    <file name="u366-4.png" crc="324126159" ref="index"/>
+    <file name="u354-4.png" crc="3821018197" ref="index"/>
+    <file name="u367-4.png" crc="517309026" ref="index"/>
+    <file name="u371-4.png" crc="397097401" ref="index"/>
+    <file name="t9cqwh5k5-u9e1yb8bh-8e471386a01d-1024.jpg" crc="18418340" ref="index"/>
+    <file name="img_0264 f-crop-u390.jpg" crc="4033694494" ref="index"/>
+    <file name="shomari-crop-u396.jpg" crc="504578296" ref="index"/>
+    <file name="u378-4.png" crc="22797264" ref="index"/>
+    <file name="u373-4.png" crc="4095032460" ref="index"/>
+    <file name="u382-4.png" crc="3889500972" ref="index"/>
+    <file name="u379-4.png" crc="242299065" ref="index"/>
+    <file name="u375-4.png" crc="4031078861" ref="index"/>
+    <file name="u383-6.png" crc="451036499" ref="index"/>
+    <file name="t9cqwh5k5-u9chwv1q8-70e8bc2b8fe6-1024-crop-u422.jpg" crc="333544134" ref="index"/>
+    <file name="me-crop-u428.jpg" crc="113192420" ref="index"/>
+    <file name="u418-4.png" crc="351088574" ref="index"/>
+    <file name="u413-4.png" crc="4125031035" ref="index"/>
+    <file name="u417-4.png" crc="3838080075" ref="index"/>
+    <file name="u412-4.png" crc="4135429973" ref="index"/>
+    <file name="u437-4.png" crc="4106160064" ref="index"/>
+    <file name="gp.png" crc="432935318" ref="index"/>
+    <file name="logo-w-word.png" crc="90076104" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4101809191" mt="1520191815854" redirect="true"/>
+</manifest>
